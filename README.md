@@ -2,7 +2,7 @@
 
 _windows-1254_ is a robust JavaScript implementation of [the windows-1254 character encoding as defined by the Encoding Standard](http://encoding.spec.whatwg.org/#windows-1254).
 
-This encoding is known under the following names: cp1254, csisolatin5, iso-8859-9, iso-ir-148, iso8859-9, iso88599, iso_8859-9, iso_8859-9:1989, l5, latin5, windows-1254, x-cp1254, and x-cp1254.
+This encoding is known under the following names: cp1254, csisolatin5, iso-8859-9, iso-ir-148, iso8859-9, iso88599, iso_8859-9, iso_8859-9:1989, l5, latin5, windows-1254, and x-cp1254.
 
 ## Installation
 
