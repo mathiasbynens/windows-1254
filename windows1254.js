@@ -50,6 +50,7 @@
 		var length = input.length;
 		var index = -1;
 		var byteValue;
+		var pointer;
 		var result = '';
 		while (++index < length) {
 			byteValue = input.charCodeAt(index);
@@ -61,7 +62,7 @@
 			}
 			// “Let `code point` be the index code point for `byte − 0x80` in index
 			// `single-byte`.”
-			var pointer = byteValue - 0x80;
+			pointer = byteValue - 0x80;
 			if (hasOwnProperty.call(INDEX_BY_POINTER, pointer)) {
 				// “Return a code point whose value is `code point`.”
 				result += INDEX_BY_POINTER[pointer];
@@ -114,6 +115,20 @@
 	var windows1254 = {
 		'encode': encode,
 		'decode': decode,
+		'labels': [
+			'cp1254',
+			'csisolatin5',
+			'iso-8859-9',
+			'iso-ir-148',
+			'iso8859-9',
+			'iso88599',
+			'iso_8859-9',
+			'iso_8859-9:1989',
+			'l5',
+			'latin5',
+			'windows-1254',
+			'x-cp1254'
+		],
 		'version': '0.1.0'
 	};
 
