@@ -35,7 +35,7 @@
 
 	// explicitly call `QUnit.module()` instead of `module()`
 	// in case we are in a CLI environment
-	QUnit.module('windows1254');
+	QUnit.module('windows-1254');
 
 	test('windows1254.encode', function() {
 		equal(
