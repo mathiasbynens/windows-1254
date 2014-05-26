@@ -1,4 +1,4 @@
-# windows-1254 [![Build status](https://travis-ci.org/mathiasbynens/windows-1254.svg?branch=master)](https://travis-ci.org/mathiasbynens/windows-1254) [![Dependency status](https://gemnasium.com/mathiasbynens/windows-1254.svg)](https://gemnasium.com/mathiasbynens/windows-1254)
+# windows-1254 [![Build status](https://travis-ci.org/mathiasbynens/windows-1254.svg?branch=master)](https://travis-ci.org/mathiasbynens/windows-1254) [![Code coverage status](http://img.shields.io/coveralls/mathiasbynens/windows-1254/master.svg)](https://coveralls.io/r/mathiasbynens/windows-1254) [![Dependency status](https://gemnasium.com/mathiasbynens/windows-1254.svg)](https://gemnasium.com/mathiasbynens/windows-1254)
 
 _windows-1254_ is a robust JavaScript implementation of [the windows-1254 character encoding as defined by the Encoding Standard](http://encoding.spec.whatwg.org/#windows-1254).
 
