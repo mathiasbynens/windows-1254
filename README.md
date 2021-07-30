@@ -1,4 +1,4 @@
-# windows-1254 [![windows-1254 on npm](https://img.shields.io/npm/v/windows-1254)](https://www.npmjs.com/package/windows-1254)
+# windows-1254 [![Build status](https://github.com/mathiasbynens/windows-1254/workflows/run-checks/badge.svg)](https://github.com/mathiasbynens/windows-1254/actions?query=workflow%3Arun-checks) [![windows-1254 on npm](https://img.shields.io/npm/v/windows-1254)](https://www.npmjs.com/package/windows-1254)
 
 _windows-1254_ is a robust JavaScript implementation of [the windows-1254 character encoding as defined by the Encoding Standard](https://encoding.spec.whatwg.org/#windows-1254).
 
