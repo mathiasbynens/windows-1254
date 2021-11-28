@@ -37,8 +37,10 @@
 	"bugs": "https://github.com/mathiasbynens/windows-1254/issues",
 	"files": [
 		"LICENSE-MIT.txt",
-		"windows-1254.mjs"
+		"windows-1254.mjs",
+		"windows-1254.d.ts"
 	],
+	"types": "windows-1254.d.ts",
 	"scripts": {
 		"download": "curl https://encoding.spec.whatwg.org/index-windows-1254.txt > data/index.txt",
 		"build": "node scripts/transform-data.js",
